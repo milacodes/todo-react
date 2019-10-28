@@ -1,0 +1,16 @@
+.App {
+  padding-top: 40px;
+}
+
+.TodoContainer{
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid white;
+    box-shadow: 0px 1px 10px 0px dimgrey;
+}

@@ -1,0 +1,16 @@
+.checkboxGroup{
+	padding: 10px 30px 10px 30px;
+	align-self: flex-start;
+	display: flex;
+	align-items: baseline;
+}
+
+p {
+	display: inline;
+	font-family: Blippo, fantasy;
+	font-size: 18px;
+}
+
+input {
+	margin-right: 15px;
+}
